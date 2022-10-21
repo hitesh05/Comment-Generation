@@ -6,3 +6,5 @@ would be to develop a classifier trained on code-comment relevance datasets, the
 would be to then use the insights from that classification task to create a text generation model
 that generates comments based on given code.
 
+## Problem Statement
+Given a piece of Code and a Comment, Classify the comment as "Relevant" or "Non-relevant".
